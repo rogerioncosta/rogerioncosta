@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rogério Costa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PHP, NODE
+- 🌱 I’m currently learning html, css, javascript, php, nodejs
 - 💞️ I’m looking to collaborate on beginners
