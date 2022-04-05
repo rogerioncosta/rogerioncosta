@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rogério Costa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning html, css, javascript, php, nodejs
-- 💞️ I’m looking to collaborate on beginners
+- 👋 Oi, eu sou o Rogério
+- 🚚 Atuamente trabalho em uma empresa de transportes
+- 🌱 Estou aprendendo html, css, javascript, php, nodejs
+- 💞️ Tenho interesse em ajudar os iniciantes como eu
