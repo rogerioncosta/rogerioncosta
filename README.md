@@ -1,4 +1,4 @@
- <h1> Oi, eu sou o Rogério!👋 </h1>
+ <h1> Oi, eu sou o Rogério! 👋 </h1>
 
 - 🚚 Atuamente trabalho em uma empresa de transportes
 - 🌱 Sou desenvolvedor e testador de software, e gostaria muito de trabalhar na área
