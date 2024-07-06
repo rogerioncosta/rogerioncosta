@@ -1,4 +1,4 @@
 - 👋 Oi, eu sou o Rogério
 - 🚚 Atuamente trabalho em uma empresa de transportes
-- 🌱 Estou aprendendo html, css, javascript, php, nodejs
-- 💞️ Tenho interesse em ajudar os iniciantes como eu
+- 🌱 Sou desenvolvedor e testador de software
+- 😎 Quero compartilhar e adquirir mais conhecimento na área
