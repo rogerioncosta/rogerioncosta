@@ -2,7 +2,7 @@
 
 - 🚚 Atuamente trabalho em uma empresa de transportes
 - 🌱 Sou desenvolvedor e testador de software, e gostaria muito de trabalhar na área
-- 😎 Quero compartilhar e adquirir conhecimentos na área
+- 😎 Quero compartilhar e adquirir conhecimentos
 
 <h3> Entre em contato comigo: </h3>
 
