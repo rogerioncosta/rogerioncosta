@@ -1,8 +1,9 @@
  <h1> Oi, eu sou o Rogério! 👋 </h1>
 
-- 🚚 Atuamente trabalho em uma empresa de transportes
-- 🌱 Sou desenvolvedor e testador de software, e gostaria muito de trabalhar na área
-- 😎 Quero compartilhar e adquirir conhecimentos
+🚚  Atualmente trabalho em uma empresa de transportes, atuando com foco em tecnologia.
+💻 Sou desenvolvedor e analista de testes de software, com foco em qualidade e automação.
+🌱 Estou em constante aprendizado, explorando novas tecnologias e boas práticas de desenvolvimento.
+🚀 Meu objetivo com este espaço é compartilhar projetos, trocar experiências e aprender com a comunidade.
 
 <h3> Entre em contato comigo: </h3>
 
